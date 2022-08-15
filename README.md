@@ -13,7 +13,7 @@ _🦌 网页小游戏 🥛_
 ## 简介
 
 小游戏：吃掉小鹿乃
-
+原github链接：https://github.com/arcxingye/EatKano
 [English](README_EN.md)
 |
 [鹿乃b站](https://space.bilibili.com/316381099)
